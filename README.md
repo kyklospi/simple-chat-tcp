@@ -8,4 +8,3 @@ The _IP address_ of the server is needed to connect
 
 ### how to run
 On your command line write **_python chat_server.py_** . Open another terminal and write **_python chat_client.py_** # simple-chat-tcp
-# simple-chat-tcp
